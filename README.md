@@ -38,3 +38,5 @@ What is the position of the character that causes Santa to first enter the basem
 Although it hasn't changed, you can still get your puzzle input.
 
 Answer: 1795
+
+Both parts of this puzzle are complete! They provide two gold stars: **
